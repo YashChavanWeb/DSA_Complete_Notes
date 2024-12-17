@@ -24,7 +24,6 @@ using namespace std;
 - Time complexity -> O(n1 + n2) - in the worst case
 - Space Complexity -> O(1) - we are not using any extra spaces
 
-
  
 */
 

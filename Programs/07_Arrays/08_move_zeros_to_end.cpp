@@ -57,7 +57,7 @@ void move_zeros_brute(vector<int> &arr, int n)
 
 void move_zeros_optimal(vector<int> &arr, int n)
 {
-    // Step 1
+    // Step 1 - this loop is not of use we can directly use the first loop
     int j = -1;
     for (int i = 0; i < n; i++)
     {

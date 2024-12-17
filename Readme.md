@@ -99,6 +99,8 @@ ays/06_left_rotate_array_1.cpp): Left rotate an array by 1 position.
 - [11_intersection_of_sorted_arrays.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/11_intersection_of_sorted_arrays.cpp): Intersection of two sorted arrays.
 - [12_find_missing_no_in_array.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/12_find_missing_no_in_array.cpp): Finding missing number in an array.
 - [13_maximum_consecutive_ones.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/13_maximum_consecutive_ones.cpp): Maximum consecutive ones in an array.
+- [14_number_appearing_once.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/14_number_appearing_once.cpp): Find the number appearing just once in the array.
+- [15_longest_subarray_given_sum.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/15_longest_subarray_given_sum.cpp): Find the longest sub-array with given sum k for +ve and -ve array elements.
 
 ---
 
@@ -107,7 +109,7 @@ ays/06_left_rotate_array_1.cpp): Left rotate an array by 1 position.
 1. Clone the repository using the following command:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/YashChavanWeb/DSA_Complete_Notes
    ```
 
 2. Navigate to the folder of interest:
@@ -130,9 +132,3 @@ ays/06_left_rotate_array_1.cpp): Left rotate an array by 1 position.
 ### Contributing
 
 Feel free to fork the repository, make changes, and create a pull request if you have improvements or additional programs to share.
-
----
-
-### License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
