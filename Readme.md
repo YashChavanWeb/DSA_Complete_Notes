@@ -79,28 +79,30 @@ Implementation of various sorting algorithms.
 - [05_quick_sort.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/06_Sorting_Techniques/05_quick_sort.cpp): Quick sort.
 - [06_recursive_insertion_bubble.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/06_Sorting_Techniques/06_recursive_insertion_bubble.cpp): Recursive implementation of insertion and bubble sort.
 
+---
+
 ## Arrays
 
-Working with arrays in C++.
+Working with arrays in C++:
 
 - [01_basics_of_arrays.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/01_basics_of_arrays.cpp): Introduction to arrays.
 - [02_largest_element.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/02_largest_element.cpp): Finding the largest element in an array.
 - [03_second_largest_element.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/03_second_largest_element.cpp): Finding the second largest element in an array.
 - [04_check_if_array_sorted.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/04_check_if_array_sorted.cpp): Checking if the array is sorted.
 - [05_remove_dupli_from_sorted.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/05_remove_dupli_from_sorted.cpp): Removing duplicates from a sorted array.
-- [06_left_rotate_array_1.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arr
-
-ays/06_left_rotate_array_1.cpp): Left rotate an array by 1 position.
-
+- [06_left_rotate_array_1.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/06_left_rotate_array_1.cpp): Left rotate an array by 1 position.
 - [07_left_rotate_array_n.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/07_left_rotate_array_n.cpp): Left rotate an array by N positions.
 - [08_move_zeros_to_end.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/08_move_zeros_to_end.cpp): Moving zeros to the end of an array.
 - [09_linear_search.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/09_linear_search.cpp): Linear search algorithm.
 - [10_union_of_sorted_arrays.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/10_union_of_sorted_arrays.cpp): Union of two sorted arrays.
 - [11_intersection_of_sorted_arrays.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/11_intersection_of_sorted_arrays.cpp): Intersection of two sorted arrays.
-- [12_find_missing_no_in_array.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/12_find_missing_no_in_array.cpp): Finding missing number in an array.
+- [12_find_missing_no_in_array.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/12_find_missing_no_in_array.cpp): Finding the missing number in an array.
 - [13_maximum_consecutive_ones.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/13_maximum_consecutive_ones.cpp): Maximum consecutive ones in an array.
 - [14_number_appearing_once.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/14_number_appearing_once.cpp): Find the number appearing just once in the array.
-- [15_longest_subarray_given_sum.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/15_longest_subarray_given_sum.cpp): Find the longest sub-array with given sum k for +ve and -ve array elements.
+- [15_longest_subarray_given_sum.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/15_longest_subarray_given_sum.cpp): Find the longest sub-array with a given sum (for both positive and negative array elements).
+- [16_two_sum_problem.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/16_two_sum_problem.cpp): Find two numbers in the array that add up to a given sum.
+- [17_sort_0s_1s_2s_array.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/17_sort_0s_1s_2s_array.cpp): Sort an array consisting of only 0s, 1s, and 2s.
+- [18_majority_element.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/18_majority_element.cpp): Find the majority element (an element that appears more than n/2 times) in an array.
 
 ---
 

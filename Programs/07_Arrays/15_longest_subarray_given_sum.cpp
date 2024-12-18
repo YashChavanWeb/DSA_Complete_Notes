@@ -47,7 +47,7 @@ for(int i=0; i<n; i++) {
 
     for(int j=i; j<n; j++) {
 
-            sum += a[k]
+            sum += a[j]
 
             if(sum==given_sum) {
                 len = max(len, j-i+1)
@@ -55,6 +55,7 @@ for(int i=0; i<n; i++) {
 }
 - Time complexity -> O(n^2)
 - Space Complexity -> O(1)
+
 
 
 
@@ -101,6 +102,7 @@ Note: to check if element is there in map or not
 
 
 
+
 3. Optimal Approach
 - first I will  keep two pointers
 - one pointer j will go on increasing until the sum is equal to k
@@ -122,7 +124,6 @@ the outer while runs for n and the inner while runs for n (not everytime)
 so it will be O(n+n)
 
 - Space Complexity -> O(1)
-
 
 */
 
