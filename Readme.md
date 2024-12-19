@@ -79,13 +79,13 @@ Implementation of various sorting algorithms.
 - [05_quick_sort.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/06_Sorting_Techniques/05_quick_sort.cpp): Quick sort.
 - [06_recursive_insertion_bubble.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/06_Sorting_Techniques/06_recursive_insertion_bubble.cpp): Recursive implementation of insertion and bubble sort.
 
+Here's the improved and properly formatted list for the "Arrays" section with brief descriptions for each program:
+
 ---
 
-## Arrays
+## Arrays in C++
 
-Working with arrays in C++:
-
-- [01_basics_of_arrays.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/01_basics_of_arrays.cpp): Introduction to arrays.
+- [01_basics_of_arrays.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/01_basics_of_arrays.cpp): Introduction to arrays in C++.
 - [02_largest_element.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/02_largest_element.cpp): Finding the largest element in an array.
 - [03_second_largest_element.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/03_second_largest_element.cpp): Finding the second largest element in an array.
 - [04_check_if_array_sorted.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/04_check_if_array_sorted.cpp): Checking if the array is sorted.
@@ -93,16 +93,19 @@ Working with arrays in C++:
 - [06_left_rotate_array_1.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/06_left_rotate_array_1.cpp): Left rotate an array by 1 position.
 - [07_left_rotate_array_n.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/07_left_rotate_array_n.cpp): Left rotate an array by N positions.
 - [08_move_zeros_to_end.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/08_move_zeros_to_end.cpp): Moving zeros to the end of an array.
-- [09_linear_search.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/09_linear_search.cpp): Linear search algorithm.
-- [10_union_of_sorted_arrays.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/10_union_of_sorted_arrays.cpp): Union of two sorted arrays.
-- [11_intersection_of_sorted_arrays.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/11_intersection_of_sorted_arrays.cpp): Intersection of two sorted arrays.
+- [09_linear_search.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/09_linear_search.cpp): Linear search algorithm to find an element in an array.
+- [10_union_of_sorted_arrays.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/10_union_of_sorted_arrays.cpp): Finding the union of two sorted arrays.
+- [11_intersection_of_sorted_arrays.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/11_intersection_of_sorted_arrays.cpp): Finding the intersection of two sorted arrays.
 - [12_find_missing_no_in_array.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/12_find_missing_no_in_array.cpp): Finding the missing number in an array.
-- [13_maximum_consecutive_ones.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/13_maximum_consecutive_ones.cpp): Maximum consecutive ones in an array.
-- [14_number_appearing_once.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/14_number_appearing_once.cpp): Find the number appearing just once in the array.
-- [15_longest_subarray_given_sum.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/15_longest_subarray_given_sum.cpp): Find the longest sub-array with a given sum (for both positive and negative array elements).
-- [16_two_sum_problem.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/16_two_sum_problem.cpp): Find two numbers in the array that add up to a given sum.
-- [17_sort_0s_1s_2s_array.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/17_sort_0s_1s_2s_array.cpp): Sort an array consisting of only 0s, 1s, and 2s.
-- [18_majority_element.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/18_majority_element.cpp): Find the majority element (an element that appears more than n/2 times) in an array.
+- [13_maximum_consecutive_ones.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/13_maximum_consecutive_ones.cpp): Finding the maximum number of consecutive ones in a binary array.
+- [14_number_appearing_once.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/14_number_appearing_once.cpp): Finding the element that appears only once in an array.
+- [15_longest_subarray_given_sum.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/15_longest_subarray_given_sum.cpp): Finding the longest subarray with a given sum (considering both positive and negative elements).
+- [16_two_sum_problem.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/16_two_sum_problem.cpp): Finding two numbers in an array that add up to a given sum.
+- [17_sort_0s_1s_2s_array.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/17_sort_0s_1s_2s_array.cpp): Sorting an array containing only 0s, 1s, and 2s.
+- [18_majority_element.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/18_majority_element.cpp): Finding the majority element in an array (element that appears more than `n/2` times).
+- [19_kadanes_algo_max_subarray_sum.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/19_kadanes_algo_max_subarray_sum.cpp): Implementing Kadane's Algorithm to find the maximum subarray sum.
+- [20_dp_on_stocks.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/20_dp_on_stocks.cpp): Dynamic programming approach to solving the stock buy-sell problem for maximum profit.
+- [21_rearrange_elements_by_sign.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/21_rearrange_elements_by_sign.cpp): Rearranging elements of an array by separating positive and negative numbers.
 
 ---
 
