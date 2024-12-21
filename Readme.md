@@ -104,8 +104,11 @@ Here's the improved and properly formatted list for the "Arrays" section with br
 - [17_sort_0s_1s_2s_array.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/17_sort_0s_1s_2s_array.cpp): Sorting an array containing only 0s, 1s, and 2s.
 - [18_majority_element.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/18_majority_element.cpp): Finding the majority element in an array (element that appears more than `n/2` times).
 - [19_kadanes_algo_max_subarray_sum.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/19_kadanes_algo_max_subarray_sum.cpp): Implementing Kadane's Algorithm to find the maximum subarray sum.
-- [20_dp_on_stocks.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/20_dp_on_stocks.cpp): Dynamic programming approach to solving the stock buy-sell problem for maximum profit.
-- [21_rearrange_elements_by_sign.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/21_rearrange_elements_by_sign.cpp): Rearranging elements of an array by separating positive and negative numbers.
+- [20_dp_on_stocks.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/20_dp_on_stocks.cpp): Dynamic programming approach to solving the **Stock Buy-Sell Problem** for maximum profit.
+- [21_rearrange_elements_by_sign.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/21_rearrange_elements_by_sign.cpp): Rearranging elements of an array by **separating positive and negative numbers**.
+- [22_next_permutation.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/22_next_permutation.cpp): Finding the **next lexicographical permutation** of an array.
+- [23_leaders_in_array.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/23_leaders_in_array.cpp): Finding the **leaders in an array** (elements greater than or equal to all elements to their right).
+- [24_longest_consecutive_seq.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/24_longest_consecutive_seq.cpp): Finding the **longest consecutive sequence** in an array.
 
 ---
 
