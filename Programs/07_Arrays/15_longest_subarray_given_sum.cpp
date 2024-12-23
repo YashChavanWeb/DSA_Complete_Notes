@@ -12,7 +12,7 @@ using namespace std;
 - in the third loop everytime the max will be taken for the length
 
 int len = 0
-int given_sum = x;
+int given_sum = x; 
 
 for(int i=0; i<n; i++) {
 

@@ -38,7 +38,7 @@ int find_duplicates(vector<int> &arr, int n)
             i++;
         }
     }
-    return i + 1;
+    return i;
 }
 
 int main()

@@ -1,1 +1,1 @@
-Longest sequence is of length 5
+The no. of subarrays with sum 3 is 2
