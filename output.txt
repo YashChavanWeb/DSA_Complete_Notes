@@ -1,1 +1,1 @@
-The square root of 10 is 3
+The ship can ship packages with capacity of 15 kg per day

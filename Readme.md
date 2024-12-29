@@ -100,9 +100,7 @@ Implementation of various sorting algorithms.
 - **[02_largest_element.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/02_largest_element.cpp)**: Finding the largest element in an array.
 - **[03_second_largest_element.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/03_second_largest_element.cpp)**: Finding the second largest element in an array.
 - **[04_check_if_array_sorted.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/04_check_if_array_sorted.cpp)**: Checking if the array is sorted.
-- \*\*[05_remove_dupli_from_sorted.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes
-
-/blob/main/Programs/07_Arrays/05_remove_dupli_from_sorted.cpp)\*\*: Removing duplicates from a sorted array.
+- **[05_remove_dupli_from_sorted.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/07_Arrays/05_remove_dupli_from_sorted.cpp)**: Removing duplicates from a sorted array.
 
 ### Array Rotation and Manipulation
 
@@ -155,35 +153,27 @@ Implementation of various sorting algorithms.
 
 ## Binary Search
 
-This folder covers the fundamental concepts of programming.
+This folder contains key **Binary Search** concepts and their C++ implementations:
 
-- **[01_binary_search_basics.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/01_binary_search_basics.cpp)
-
-- **[02_lower_bound.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/02_lower_bound.cpp)**: Implementation of lower bound concept, which finds the first position where an element can be inserted in a sorted array without changing the order.
-
-- **[03_upper_bound.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/03_upper_bound.cpp)**: Demonstrates how to use the upper bound to find the position of the first element greater than a given value in a sorted array.
-
-- **[04_search_insert_position.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/04_search_insert_position.cpp)**: Implements binary search to find the position where a target element should be inserted in a sorted array.
-
-- **[05_floor_and_ceil_in_array.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/05_floor_and_ceil_in_array.cpp)**: Finds the floor (largest element smaller or equal to target) and ceil (smallest element greater or equal to target) of a given element in a sorted array.
-
-- **[06_first_last_occurrence.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/06_first_last_occurrence.cpp)**: Demonstrates how to find the first and last occurrences of an element in a sorted array using binary search.
-
-- **[07_no_of_occurrences.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/07_no_of_occurrences.cpp)**: Uses binary search to calculate the number of times a given element appears in a sorted array.
-
-- **[08_search_in_rotated_sorted_array.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/08_search_in_rotated_sorted_array.cpp)**: Implements binary search to find the position of an element in a rotated sorted array.
-
-- **[09_rotated_sorted_with_duplicates.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/09_rotated_sorted_with_duplicates.cpp)**: Handles searching in a rotated sorted array that may contain duplicates, solving the issue of duplicate values during binary search.
-
-- **[10_min_in_rotated_sorted_subarray.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/10_min_in_rotated_sorted_subarray.cpp)**: Finds the minimum element in a rotated sorted array using binary search.
-
-- **[11_no_of_times_array_rotated.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/11_no_of_times_array_rotated.cpp)**: Determines the number of times a sorted array has been rotated.
-
-- **[12_single_ele_in_sorted_array.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/12_single_ele_in_sorted_array.cpp)**: Solves the problem of finding the single non-duplicate element in a sorted array with duplicates using binary search.
-
-- **[13_find_peak_element.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/13_find_peak_element.cpp)**: Finds a peak element in an unsorted array (an element that is not smaller than its neighbors) using binary search.
-
-- **[14_find_sqrt_of_integer.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/14_find_sqrt_of_integer.cpp)**: Uses binary search to find the integer square root of a non-negative integer.
+1. **[01_binary_search_basics.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/01_binary_search_basics.cpp)**: Basic binary search.
+2. **[02_lower_bound.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/02_lower_bound.cpp)**: Finds the first insert position in a sorted array.
+3. **[03_upper_bound.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/03_upper_bound.cpp)**: Finds the first element greater than the target.
+4. **[04_search_insert_position.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/04_search_insert_position.cpp)**: Finds the insert position of a target.
+5. **[05_floor_and_ceil_in_array.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/05_floor_and_ceil_in_array.cpp)**: Finds floor and ceil of a target element.
+6. **[06_first_last_occurrence.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/06_first_last_occurrence.cpp)**: Finds first and last occurrences of an element.
+7. **[07_no_of_occurrences.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/07_no_of_occurrences.cpp)**: Counts the number of occurrences of an element.
+8. **[08_search_in_rotated_sorted_array.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/08_search_in_rotated_sorted_array.cpp)**: Searches in a rotated sorted array.
+9. **[09_rotated_sorted_with_duplicates.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/09_rotated_sorted_with_duplicates.cpp)**: Handles duplicates in rotated arrays.
+10. **[10_min_in_rotated_sorted_subarray.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/10_min_in_rotated_sorted_subarray.cpp)**: Finds minimum in rotated array.
+11. **[11_no_of_times_array_rotated.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/11_no_of_times_array_rotated.cpp)**: Counts array rotations.
+12. **[12_single_ele_in_sorted_array.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/12_single_ele_in_sorted_array.cpp)**: Finds single non-duplicate element in sorted array.
+13. **[13_find_peak_element.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/13_find_peak_element.cpp)**: Finds peak element (not smaller than neighbors).
+14. **[14_find_sqrt_of_integer.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/14_find_sqrt_of_integer.cpp)**: Finds integer square root.
+15. **[15_nth_root_of_integer.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/15_nth_root_of_integer.cpp)**: Finds nth root of a number.
+16. **[16_koka_eating_bananas.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/16_koka_eating_bananas.cpp)**: Uses binary search to minimize banana eating time.
+17. **[17_min_days_to_make_bouquets.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/17_min_days_to_make_bouquets.cpp)**: Finds minimum days to make bouquets.
+18. **[18_find_smallest_divisor.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/18_find_smallest_divisor.cpp)**: Finds smallest divisor of a number.
+19. **[19_capacity_ship_packages.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/19_capacity_ship_packages.cpp)**: Determines ship capacity for packages.
 
 ---
 
