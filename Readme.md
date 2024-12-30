@@ -14,6 +14,7 @@ This repository contains various programs organized by topics. Below is a list o
 6. [Sorting Techniques](#sorting-techniques)
 7. [Arrays](#arrays)
 8. [Binary Search](#binary-search)
+9. [Strings](#strings)
 
 ---
 
@@ -155,19 +156,30 @@ Implementation of various sorting algorithms.
 
 This folder contains key **Binary Search** concepts and their C++ implementations:
 
+### Basic Problems
+
 - **[01_binary_search_basics.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/01_binary_search_basics.cpp)**: Basic binary search.
 - **[02_lower_bound.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/02_lower_bound.cpp)**: Finds the first insert position in a sorted array.
 - **[03_upper_bound.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/03_upper_bound.cpp)**: Finds the first element greater than the target.
+
+### Searching
+
 - **[04_search_insert_position.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/04_search_insert_position.cpp)**: Finds the insert position of a target.
 - **[05_floor_and_ceil_in_array.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/05_floor_and_ceil_in_array.cpp)**: Finds floor and ceil of a target element.
 - **[06_first_last_occurrence.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/06_first_last_occurrence.cpp)**: Finds first and last occurrences of an element.
 - **[07_no_of_occurrences.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/07_no_of_occurrences.cpp)**: Counts the number of occurrences of an element.
 - **[08_search_in_rotated_sorted_array.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/08_search_in_rotated_sorted_array.cpp)**: Searches in a rotated sorted array.
 - **[09_rotated_sorted_with_duplicates.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/09_rotated_sorted_with_duplicates.cpp)**: Handles duplicates in rotated arrays.
+
+### Find element
+
 - **[10_min_in_rotated_sorted_subarray.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/10_min_in_rotated_sorted_subarray.cpp)**: Finds minimum in rotated array.
 - **[11_no_of_times_array_rotated.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/11_no_of_times_array_rotated.cpp)**: Counts array rotations.
 - **[12_single_ele_in_sorted_array.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/12_single_ele_in_sorted_array.cpp)**: Finds single non-duplicate element in sorted array.
 - **[13_find_peak_element.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/13_find_peak_element.cpp)**: Finds peak element (not smaller than neighbors).
+
+### Binary search on Answers
+
 - **[14_find_sqrt_of_integer.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/14_find_sqrt_of_integer.cpp)**: Finds integer square root.
 - **[15_nth_root_of_integer.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/15_nth_root_of_integer.cpp)**: Finds nth root of a number.
 - **[16_koka_eating_bananas.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/16_koka_eating_bananas.cpp)**: Uses binary search to minimize banana eating time.
@@ -180,6 +192,17 @@ This folder contains key **Binary Search** concepts and their C++ implementation
 - **[23_search_row_col_wise_sorted_matrix.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/08_Binary_Search/23_search_row_col_wise_sorted_matrix.cpp)**: Searches in a row and column-wise sorted 2D matrix.
 
 ---
+
+## Strings
+
+This folder contains key **String** Problems and their C++ implementations:
+
+- **[01_remove_outermost_parentheses.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/01_remove_outermost_parentheses.cpp)**: Removes outermost parentheses from a string.
+- **[02_reverse_words_in_string.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/02_reverse_words_in_string.cpp)**: Reverses words in a string.
+- **[03_check_palindrome.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/03_check_palindrome.cpp)**: Checks if a string is a palindrome.
+- **[04_largest_odd_no_in_string.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/04_largest_odd_no_in_string.cpp)**: Finds the largest odd number in a string.
+- **[05_longest_common_prefix.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/05_longest_common_prefix.cpp)**: Finds the longest common prefix of strings.
+- **[06_isomorphic_strings.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/06_isomorphic_strings.cpp)**: Checks if two strings are isomorphic.
 
 ## How to Use
 
