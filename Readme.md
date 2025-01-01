@@ -203,6 +203,8 @@ This folder contains key **String** Problems and their C++ implementations:
 - **[04_largest_odd_no_in_string.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/04_largest_odd_no_in_string.cpp)**: Finds the largest odd number in a string.
 - **[05_longest_common_prefix.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/05_longest_common_prefix.cpp)**: Finds the longest common prefix of strings.
 - **[06_isomorphic_strings.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/06_isomorphic_strings.cpp)**: Checks if two strings are isomorphic.
+- **[07_check_strings_rotations.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/07_check_strings_rotations.cpp)**: Checks if a string is a rotation of another.
+- **[08_check_if_strings_are_anagram.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/08_check_if_strings_are_anagram.cpp)**: Check if the two strings are anagrams.
 
 ## How to Use
 
