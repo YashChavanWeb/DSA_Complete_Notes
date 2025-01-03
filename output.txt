@@ -1,2 +1,1 @@
-The Roman numeral is: MCMXCIV
-The Integer is: 21
+The sum is : 17
