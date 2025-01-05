@@ -15,6 +15,7 @@ This repository contains various programs organized by topics. Below is a list o
 7. [Arrays](#arrays)
 8. [Binary Search](#binary-search)
 9. [Strings](#strings)
+10. [Linked List](#linked-list)
 
 ---
 
@@ -197,14 +198,34 @@ This folder contains key **Binary Search** concepts and their C++ implementation
 
 This folder contains key **String** Problems and their C++ implementations:
 
-- **[01_remove_outermost_parentheses.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/01_remove_outermost_parentheses.cpp)**: Removes outermost parentheses from a string.
-- **[02_reverse_words_in_string.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/02_reverse_words_in_string.cpp)**: Reverses words in a string.
-- **[03_check_palindrome.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/03_check_palindrome.cpp)**: Checks if a string is a palindrome.
-- **[04_largest_odd_no_in_string.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/04_largest_odd_no_in_string.cpp)**: Finds the largest odd number in a string.
-- **[05_longest_common_prefix.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/05_longest_common_prefix.cpp)**: Finds the longest common prefix of strings.
+- **[01_remove_outermost_parentheses.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/01_remove_outermost_parentheses.cpp)**: Removes the outermost parentheses from a string.
+- **[02_reverse_words_in_string.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/02_reverse_words_in_string.cpp)**: Reverses the words in a given string.
+- **[03_check_palindrome.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/03_check_palindrome.cpp)**: Checks if a given string is a palindrome.
+- **[04_largest_odd_no_in_string.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/04_largest_odd_no_in_string.cpp)**: Finds the largest odd number present in a string.
+- **[05_longest_common_prefix.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/05_longest_common_prefix.cpp)**: Finds the longest common prefix among a set of strings.
 - **[06_isomorphic_strings.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/06_isomorphic_strings.cpp)**: Checks if two strings are isomorphic.
-- **[07_check_strings_rotations.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/07_check_strings_rotations.cpp)**: Checks if a string is a rotation of another.
-- **[08_check_if_strings_are_anagram.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/08_check_if_strings_are_anagram.cpp)**: Check if the two strings are anagrams.
+- **[07_check_strings_rotations.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/07_check_strings_rotations.cpp)**: Checks if one string is a rotation of another.
+- **[08_check_if_strings_are_anagram.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/08_check_if_strings_are_anagram.cpp)**: Checks if two strings are anagrams of each other.
+- **[09_sort_chars_by_frequency.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/09_sort_chars_by_frequency.cpp)**: Sorts the characters in a string by their frequency of occurrence.
+- **[10_max_nesting_depth.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/10_max_nesting_depth.cpp)**: Finds the maximum nesting depth of parentheses in a string.
+- **[11_integer_to_roman_versa.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/11_integer_to_roman_versa.cpp)**: Converts an integer to its Roman numeral representation and vice versa.
+- **[12_implement_atoi.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/12_implement_atoi.cpp)**: Implements the `atoi` function (string to integer conversion).
+- **[13_longest_palindromic_substring.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/13_longest_palindromic_substring.cpp)**: Finds the longest palindromic substring within a given string.
+- **[14_sum_beauty_substring.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/09_Strings/14_sum_beauty_substring.cpp)**: Calculates the sum of beauty of all substrings in a string.
+
+---
+
+## Linked List
+
+This folder contains key **Linked List** problems and their corresponding C++ implementations.
+
+1. **[01_linked_list_basics.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/01_linked_list_basics.cpp)**: Implements the basics of linked lists.
+2. **[02_deletion_of_node_SLL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/02_deletion_of_node_SLL.cpp)**: Demonstrates the deletion of a node in a Singly Linked List (SLL).
+3. **[03_insertion_of_node_SLL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/03_insertion_of_node_SLL.cpp)**: Demonstrates the insertion of a node in a Singly Linked List (SLL).
+4. **[04_doubly_linked_list_basics.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/04_doubly_linked_list_basics.cpp)**: Implements the basics of Doubly Linked Lists (DLL).
+5. **[05_deletion_of_node_DLL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/05_deletion_of_node_DLL.cpp)**: Demonstrates the deletion of a node in a Doubly Linked List (DLL).
+
+---
 
 ## How to Use
 
