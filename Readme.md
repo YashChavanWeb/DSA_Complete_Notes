@@ -219,14 +219,17 @@ This folder contains key **String** Problems and their C++ implementations:
 
 This folder contains key **Linked List** problems and their corresponding C++ implementations.
 
-1. **[01_linked_list_basics.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/01_linked_list_basics.cpp)**: Implements the basics of linked lists.
-2. **[02_deletion_of_node_SLL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/02_deletion_of_node_SLL.cpp)**: Demonstrates the deletion of a node in a Singly Linked List (SLL).
-3. **[03_insertion_of_node_SLL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/03_insertion_of_node_SLL.cpp)**: Demonstrates the insertion of a node in a Singly Linked List (SLL).
-4. **[04_doubly_linked_list_basics.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/04_doubly_linked_list_basics.cpp)**: Implements the basics of Doubly Linked Lists (DLL).
-5. **[05_deletion_of_node_DLL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/05_deletion_of_node_DLL.cpp)**: Demonstrates the deletion of a node in a Doubly Linked List (DLL).
-6. **[06_insertion_of_node.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/06_insertion_of_node.cpp)**: Demonstrates the insertion of a node in a Doubly Linked List (DLL).
-7. **[07_reverse_a_DLL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/07_reverse_a_DLL.cpp)**: Demonstrates reversing a Doubly Linked List (DLL).
-8. **[08_add_two_nos_in_LL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/08_add_two_nos_in_LL.cpp)**: Demonstrates adding of two linked lists.
+- **[01_linked_list_basics.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/01_linked_list_basics.cpp)**: Implements the basics of linked lists.
+- **[02_deletion_of_node_SLL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/02_deletion_of_node_SLL.cpp)**: Demonstrates the deletion of a node in a Singly Linked List (SLL).
+- **[03_insertion_of_node_SLL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/03_insertion_of_node_SLL.cpp)**: Demonstrates the insertion of a node in a Singly Linked List (SLL).
+- **[04_doubly_linked_list_basics.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/04_doubly_linked_list_basics.cpp)**: Implements the basics of Doubly Linked Lists (DLL).
+- **[05_deletion_of_node_DLL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/05_deletion_of_node_DLL.cpp)**: Demonstrates the deletion of a node in a Doubly Linked List (DLL).
+- **[06_insertion_of_node.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/06_insertion_of_node.cpp)**: Demonstrates the insertion of a node in a Doubly Linked List (DLL).
+- **[07_reverse_a_DLL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/07_reverse_a_DLL.cpp)**: Demonstrates reversing a Doubly Linked List (DLL).
+- **[08_add_two_nos_in_LL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/08_add_two_nos_in_LL.cpp)**: Demonstrates adding of two linked lists.
+- **[09_group_odd_and_even.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/09_group_odd_and_even.cpp)**: Demonstrates grouping the linked lists based on even and odd indexes.
+- **[10_sort_LL_of_0s_1s_2s.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/10_sort_LL_of_0s_1s_2s.cpp)**: Demonstrates sorting of linked lists with 0s, 1s and 2s.
+- **[11_remove_nth_node_from_end.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/11_remove_nth_node_from_end.cpp)**: Removing the nth node from the back of the linked list.
 
 ---
 
