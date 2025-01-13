@@ -1,1 +1,1 @@
-3 -> 5 -> 3 -> null
+The intersecting Node is : 4 -> null 
