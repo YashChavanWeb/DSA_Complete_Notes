@@ -241,6 +241,10 @@ This folder contains key **Linked List** problems and their corresponding C++ im
 16. **[16_intersection_pt_of_Y_LL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/16_intersection_pt_of_Y_LL.cpp)**: To find the intersection point of a Y Linked List.
 17. **[17_detect_a_loop_in_LL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/17_detect_a_loop_in_LL.cpp)**: To detect a loop/cycle in a Linked List.
 18. **[18_find_length_of_loop_in_LL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/18_find_length_of_loop_in_LL.cpp)**: To find length of the loop in LL.
+19. **[19_delete_middle_node.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/19_delete_middle_node.cpp)**: To detect the middle node in LL.
+20. **[20_find_starting_point_of_loop.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/20_find_starting_point_of_loop.cpp)**: To find starting point of the loop/cycle in LL.
+21. **[21_merge_two_sorted_LL.cpp.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/21_merge_two_sorted_LL.cpp.cpp)**: To merge two sorted Linked Lists.
+22. **[22_sort_a_LL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/22_sort_a_LL.cpp)**: To Sort a Linked List.
 
 ---
 
