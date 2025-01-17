@@ -245,6 +245,10 @@ This folder contains key **Linked List** problems and their corresponding C++ im
 20. **[20_find_starting_point_of_loop.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/20_find_starting_point_of_loop.cpp)**: To find starting point of the loop/cycle in LL.
 21. **[21_merge_two_sorted_LL.cpp.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/21_merge_two_sorted_LL.cpp.cpp)**: To merge two sorted Linked Lists.
 22. **[22_sort_a_LL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/22_sort_a_LL.cpp)**: To Sort a Linked List.
+23. **[23_del_occurences_of_key_in_DLL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/23_del_occurences_of_key_in_DLL.cpp)**: Delete the occurrences of a key in a Doubly Linked List.
+24. **[24_find_pairs_with_given_sum_DLL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/24_find_pairs_with_given_sum_DLL.cpp)**: To find the pairs in DLL for the given sum.
+25. **[25_remove_dupli_from_sorted_DLL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/25_remove_dupli_from_sorted_DLL.cpp)**:
+    Remove duplicate from the sorted Doubly Linked List (DLL)
 
 ---
 
