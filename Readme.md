@@ -247,8 +247,8 @@ This folder contains key **Linked List** problems and their corresponding C++ im
 22. **[22_sort_a_LL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/22_sort_a_LL.cpp)**: To Sort a Linked List.
 23. **[23_del_occurences_of_key_in_DLL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/23_del_occurences_of_key_in_DLL.cpp)**: Delete the occurrences of a key in a Doubly Linked List.
 24. **[24_find_pairs_with_given_sum_DLL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/24_find_pairs_with_given_sum_DLL.cpp)**: To find the pairs in DLL for the given sum.
-25. **[25_remove_dupli_from_sorted_DLL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/25_remove_dupli_from_sorted_DLL.cpp)**:
-    Remove duplicate from the sorted Doubly Linked List (DLL)
+25. **[25_remove_dupli_from_sorted_DLL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/25_remove_dupli_from_sorted_DLL.cpp)**: Remove duplicate from the sorted Doubly Linked List (DLL)
+26. **[26_rotate_a_LL_k_times.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/26_rotate_a_LL_k_times.cpp)**: Rotate a Linked List by k times.
 
 ---
 
