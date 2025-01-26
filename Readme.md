@@ -253,7 +253,7 @@ This folder contains key **Linked List** problems and their corresponding C++ im
 
 ---
 
-## Stack and Queue Programs
+## Stack and Queue
 
 1.  **[intro_to_stack_and_queue.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/01_intro_to_stack_and_queue.cpp)**: Introduction to Stacks and Queues — basic concepts and operations.
 2.  **[stack_queue_using_LL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/02_stack_queue_using_LL.cpp)**: Implement stack and queue using a linked list.
