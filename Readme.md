@@ -16,6 +16,7 @@ This repository contains various programs organized by topics. Below is a list o
 8. [Binary Search](#binary-search)
 9. [Strings](#strings)
 10. [Linked List](#linked-list)
+11. [Stack and Queue](#stack-and-queue)
 
 ---
 
@@ -249,6 +250,17 @@ This folder contains key **Linked List** problems and their corresponding C++ im
 24. **[24_find_pairs_with_given_sum_DLL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/24_find_pairs_with_given_sum_DLL.cpp)**: To find the pairs in DLL for the given sum.
 25. **[25_remove_dupli_from_sorted_DLL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/25_remove_dupli_from_sorted_DLL.cpp)**: Remove duplicate from the sorted Doubly Linked List (DLL)
 26. **[26_rotate_a_LL_k_times.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/10_Linked_List/26_rotate_a_LL_k_times.cpp)**: Rotate a Linked List by k times.
+
+---
+
+## Stack and Queue Programs
+
+1.  **[intro_to_stack_and_queue.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/01_intro_to_stack_and_queue.cpp)**: Introduction to Stacks and Queues — basic concepts and operations.
+2.  **[stack_queue_using_LL.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/02_stack_queue_using_LL.cpp)**: Implement stack and queue using a linked list.
+3.  **[stack_and_queue_using_both.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/03_stack_and_queue_using_both.cpp)**: Implement stack and queue using both arrays and linked lists.
+4.  **[balanced_parentheses.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/04_balanced_parentheses.cpp)**: Check if parentheses in an expression are balanced using a stack.
+5.  **[prefix_infix_postfix.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/05_prefix_infix_postfix.cpp)**: Convert between prefix, infix, and postfix notation using stacks.
+6.  **[implement_min_stack.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/06_implement_min_stack.cpp)**: Implement a stack that supports the `getMin()` operation in constant time.
 
 ---
 
