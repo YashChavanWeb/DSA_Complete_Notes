@@ -261,6 +261,8 @@ This folder contains key **Linked List** problems and their corresponding C++ im
 4.  **[balanced_parentheses.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/04_balanced_parentheses.cpp)**: Check if parentheses in an expression are balanced using a stack.
 5.  **[prefix_infix_postfix.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/05_prefix_infix_postfix.cpp)**: Convert between prefix, infix, and postfix notation using stacks.
 6.  **[implement_min_stack.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/06_implement_min_stack.cpp)**: Implement a stack that supports the `getMin()` operation in constant time.
+7.  **[07_next_greater_element.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/07_next_greater_element.cpp)**: Find the next greater element in the given array (Monotonic stack).
+8.  **[08_next_cir_greater_element.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/08_next_cir_greater_element.cpp)**: Find the next greater element in the given array using circular array.
 
 ---
 
