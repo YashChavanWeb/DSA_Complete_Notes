@@ -263,6 +263,9 @@ This folder contains key **Linked List** problems and their corresponding C++ im
 6.  **[implement_min_stack.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/06_implement_min_stack.cpp)**: Implement a stack that supports the `getMin()` operation in constant time.
 7.  **[07_next_greater_element.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/07_next_greater_element.cpp)**: Find the next greater element in the given array (Monotonic stack).
 8.  **[08_next_cir_greater_element.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/08_next_cir_greater_element.cpp)**: Find the next greater element in the given array using circular array.
+9.  **[09_previous_smaller_element.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/09_previous_smaller_element.cpp)**: Find the previous smaller element for all elements in the array.
+10. **[10_sum_of_subarray_mins.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/10_sum_of_subarray_mins.cpp)**: Find the sum of subarray minimums of the array.
+11. **[11_sum_of_subarray_ranges.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/11_sum_of_subarray_ranges.cpp)**: Find the sum of subarray ranges (subarray_max - subarray_min) of the array.
 
 ---
 
