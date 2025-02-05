@@ -266,6 +266,8 @@ This folder contains key **Linked List** problems and their corresponding C++ im
 9.  **[09_previous_smaller_element.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/09_previous_smaller_element.cpp)**: Find the previous smaller element for all elements in the array.
 10. **[10_sum_of_subarray_mins.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/10_sum_of_subarray_mins.cpp)**: Find the sum of subarray minimums of the array.
 11. **[11_sum_of_subarray_ranges.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/11_sum_of_subarray_ranges.cpp)**: Find the sum of subarray ranges (subarray_max - subarray_min) of the array.
+12. **[12_aestorid_collisions.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/12_aestorid_collisions.cpp)**: Find the result array after the Asteroid Collisions.
+13. **[13_largest_rect_in_histogram.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/13_largest_rect_in_histogram.cpp)**: FInd the largest rectangle in Histogram.
 
 ---
 
