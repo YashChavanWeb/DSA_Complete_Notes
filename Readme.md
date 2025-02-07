@@ -269,6 +269,7 @@ This folder contains key **Linked List** problems and their corresponding C++ im
 12. **[12_aestorid_collisions.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/12_aestorid_collisions.cpp)**: Find the result array after the Asteroid Collisions.
 13. **[13_largest_rect_in_histogram.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/13_largest_rect_in_histogram.cpp)**: FInd the largest rectangle in Histogram.
 14. **[14_maximal_rectangle.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/14_maximal_rectangle.cpp)**: FInd the maximal rectangle in a 2D Matrix.
+15. **[15_remove_k_digits.cpp](https://github.com/YashChavanWeb/DSA_Complete_Notes/blob/main/Programs/11_Stack_and_Queue/15_remove_k_digits.cpp)**: Remove k digits from the given string.
 
 ---
 
