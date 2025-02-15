@@ -50,15 +50,17 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 360,
-			"y": 272.66668701171875,
-			"lastActivityTimestamp": 1739097347752,
+			"x": 18.713414322744768,
+			"y": 581.7961021271353,
+			"lastActivityTimestamp": 1739110904198,
 			"meta": {}
 		},
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {},
+			"stylesForNextShape": {
+				"tldraw:color": "black"
+			},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -72,7 +74,7 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 690,
+				"w": 858,
 				"h": 566
 			},
 			"insets": [
@@ -114,9 +116,9 @@
 			"typeName": "instance_page_state"
 		},
 		{
-			"x": 0,
-			"y": 0,
-			"z": 1,
+			"x": 467.8881776152008,
+			"y": 35.77013440814676,
+			"z": 0.5904900000000001,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
