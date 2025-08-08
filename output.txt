@@ -1,1 +1,2 @@
-Served all customers
+Number of islands in grid 1: 3
+Number of islands in grid 2: 2
