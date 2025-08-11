@@ -1,6 +1,13 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+/*
+
+// Sum of adjacent edges = sum of degrees = 2*E 
+for a undirected graph
+
+*/
+
 int main()
 {
 
