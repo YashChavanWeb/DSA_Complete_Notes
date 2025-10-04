@@ -1,1 +1,1 @@
-The graph is bipartite.
+1 2 3 4 5 
